@@ -1,12 +1,12 @@
 #  Project Setup
 
-git clone repository
+git clone repository, 
 cd repository 
 ---
 
 # Create and Activate Virtual Environment
 
-Create: python -m venv venv
+Create: python -m venv venv,  
 Activate: source venv/bin/activate
 
 
